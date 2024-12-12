@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Assignments\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|e:\\assignments\\test\\test\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|solutionrelative:test\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|e:\\assignments\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|e:\\assignments\\test\\test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|solutionrelative:test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|e:\\assignments\\test\\test\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|solutionrelative:test\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|e:\\assignments\\test\\test\\models\\enitities\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|solutionrelative:test\\models\\enitities\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|e:\\assignments\\test\\test\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|solutionrelative:test\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|e:\\assignments\\test\\test\\models\\employeedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|solutionrelative:test\\models\\employeedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|e:\\assignments\\test\\test\\models\\enitities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDA86DF-802D-4A41-8980-BC472F9CE52F}|Test\\Test.csproj|solutionrelative:test\\models\\enitities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\Assignments\\Test\\Test\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\Assignments\\Test\\Test\\Controllers\\EmployeesController.cs*",
+              "RelativeToolTip": "Test\\Controllers\\EmployeesController.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwEYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:46:34.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDetailsDto.cs",
+              "DocumentMoniker": "E:\\Assignments\\Test\\Test\\Models\\EmployeeDetailsDto.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\EmployeeDetailsDto.cs",
+              "ToolTip": "E:\\Assignments\\Test\\Test\\Models\\EmployeeDetailsDto.cs",
+              "RelativeToolTip": "Test\\Models\\EmployeeDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:43:05.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "E:\\Assignments\\Test\\Test\\Models\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\EmployeeDto.cs",
+              "ToolTip": "E:\\Assignments\\Test\\Test\\Models\\EmployeeDto.cs",
+              "RelativeToolTip": "Test\\Models\\EmployeeDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:42:33.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Assignments\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "E:\\Assignments\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAnwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:31:39.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Assignments\\Test\\Test\\appsettings.json",
+              "RelativeDocumentMoniker": "Test\\appsettings.json",
+              "ToolTip": "E:\\Assignments\\Test\\Test\\appsettings.json",
+              "RelativeToolTip": "Test\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T19:29:58.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Assignments\\Test\\Test\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Test\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Assignments\\Test\\Test\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Test\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:23:17.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "E:\\Assignments\\Test\\Test\\Models\\Enitities\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\Enitities\\EmployeeDetails.cs",
+              "ToolTip": "E:\\Assignments\\Test\\Test\\Models\\Enitities\\EmployeeDetails.cs",
+              "RelativeToolTip": "Test\\Models\\Enitities\\EmployeeDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:13:48.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Assignments\\Test\\Test\\Models\\Enitities\\Employee.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\Enitities\\Employee.cs",
+              "ToolTip": "E:\\Assignments\\Test\\Test\\Models\\Enitities\\Employee.cs",
+              "RelativeToolTip": "Test\\Models\\Enitities\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:13:27.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
